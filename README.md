@@ -1,4 +1,4 @@
-## Welcome to Mustang Blog
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/q1748403762/mustang.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
